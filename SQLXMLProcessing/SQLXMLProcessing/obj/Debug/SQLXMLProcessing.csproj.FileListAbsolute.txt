@@ -1,0 +1,7 @@
+C:\Users\MazharuM\source\repos\SQLXMLProcessing\SQLXMLProcessing\bin\Debug\SQLXMLProcessing.exe.config
+C:\Users\MazharuM\source\repos\SQLXMLProcessing\SQLXMLProcessing\bin\Debug\SQLXMLProcessing.exe
+C:\Users\MazharuM\source\repos\SQLXMLProcessing\SQLXMLProcessing\bin\Debug\SQLXMLProcessing.pdb
+C:\Users\MazharuM\source\repos\SQLXMLProcessing\SQLXMLProcessing\obj\Debug\SQLXMLProcessing.csproj.AssemblyReference.cache
+C:\Users\MazharuM\source\repos\SQLXMLProcessing\SQLXMLProcessing\obj\Debug\SQLXMLProcessing.csproj.CoreCompileInputs.cache
+C:\Users\MazharuM\source\repos\SQLXMLProcessing\SQLXMLProcessing\obj\Debug\SQLXMLProcessing.exe
+C:\Users\MazharuM\source\repos\SQLXMLProcessing\SQLXMLProcessing\obj\Debug\SQLXMLProcessing.pdb
